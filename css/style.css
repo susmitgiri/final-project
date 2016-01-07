@@ -1,0 +1,42 @@
+.home_container {
+	background-image: url(../img/herobck.jpg);
+	height: 600px;
+    margin: -56px;
+    text-align: center;
+}
+.home_container h2 {
+	margin-top: 105px;
+	color: white;
+}
+.home_container h4 {
+	color: white;
+	margin: 27px;
+}
+.row_section {
+	background-image: url(../img/cartman_rect1.jpg);
+	height: 250px;
+	}
+	.row_section h3{
+		padding: 104px;
+		text-align: center;
+		color: white;
+	}
+	.row_section2 {
+		background-image: url(../img/notbly.jpg);
+		height: 250px;
+	}
+	.row_section2 h3 {
+		padding: 104px;
+		text-align: center;
+		color: white;
+	}
+	.row_section3 {
+		background-image: url(../img/fabric.jpg);
+		height: 250px;
+	}
+	.row_section3 h3 {
+		padding: 104px;
+		text-align: center;
+		color: white;
+	}
+	
